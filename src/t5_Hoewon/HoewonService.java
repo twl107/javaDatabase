@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-// 회원관리 서비스
+// 회원관리 서비스...
 public class HoewonService {
 	Scanner scanner = new Scanner(System.in);
 	//Scanner scanner = null;
