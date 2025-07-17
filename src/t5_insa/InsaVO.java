@@ -6,10 +6,10 @@ public class InsaVO {
 	private int age;
 	private String gender;
 	private String ipsail;
+	
 	public int getIdx() {
 		return idx;
 	}
-
 	public void setIdx(int idx) {
 		this.idx = idx;
 	}
@@ -42,5 +42,4 @@ public class InsaVO {
 	public String toString() {
 		return "InsaVO [idx=" + idx + ", name=" + name + ", age=" + age + ", gender=" + gender + ", ipsail=" + ipsail + "]";
 	}
-	
 }
